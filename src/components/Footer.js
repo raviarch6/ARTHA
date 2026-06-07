@@ -14,7 +14,7 @@ export default function Footer() {
               </span>
               <span className="footer__logo-text">
                 <span className="footer__logo-primary">ARTHA</span>
-                <span className="footer__logo-sub">Automation</span>
+                <span className="footer__logo-sub">Krushi</span>
               </span>
             </div>
             <p className="footer__tagline">

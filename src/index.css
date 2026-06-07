@@ -44,7 +44,7 @@ html {
 
   /* Border radius */
   --radius-md: 8px;
-  --radius-lg: 12px;
+  --radius-lg: 30px;
   --radius-xl: 16px;
   --radius-2xl: 24px;
   --radius-full: 9999px;
@@ -73,6 +73,7 @@ html {
   --color-accent: #d97316;
   --color-accent-hover: #bf6512;
   --color-text: #0f1419;
+  --color-text-welcome: #0965efdb;
   --color-text-muted: #536471;
   --color-text-faint: #8b98a5;
   --color-text-inverse: #ffffff;
@@ -90,6 +91,9 @@ html {
   --color-footer-muted: rgba(255, 255, 255, 0.35);
   --color-footer-logo-primary: #ffffff;
   --color-footer-logo-sub: rgba(255, 255, 255, 0.5);
+  --color-footer-accent: #f39c12;
+  --color-footer-primary: #2ecc71;
+
 }
 
 [data-theme="dark"] {

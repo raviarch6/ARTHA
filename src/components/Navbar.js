@@ -35,7 +35,7 @@ export default function Navbar({ theme, toggleTheme }) {
           </span>
           <span className="navbar__logo-text">
             <span className="navbar__logo-primary">ARTHA</span>
-            <span className="navbar__logo-sub">Automation</span>
+            <span className="navbar__logo-sub">Krushi</span>
           </span>
         </a>
 

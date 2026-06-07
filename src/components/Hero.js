@@ -14,20 +14,40 @@ export default function Hero() {
       <div className="hero__bg-pattern" aria-hidden="true" />
       <div className="container hero__inner">
         <div className="hero__content">
+
+          <p
+            className="hero__desc_welcome"  
+            style={{ animation: "fadeUp 0.6s 0.15s both" 
+            }}
+            
+          >
+            Welcome To
+            <br />
+          </p>
+          <h1
+            className="hero__title_welcome"
+            style={{ animation: "fadeUp 0.6s 0.15s both" 
+            }}
+            
+          >
+            AR Tech Hydro Agri Automation
+            <br />
+          </h1>
+
           <div
             className="badge hero__badge"
             style={{ animationDelay: "0s", animation: "fadeUp 0.6s both" }}
           >
             🌱 Karnataka's Trusted Hydroponic Experts
           </div>
-          <h1
+          <h3
             className="hero__title"
             style={{ animation: "fadeUp 0.6s 0.15s both" }}
           >
             Fresh Green Fodder
             <br />
             <em className="hero__title-em">Every Single Day</em>
-          </h1>
+          </h3>
           <p
             className="hero__desc"
             style={{ animation: "fadeUp 0.6s 0.28s both" }}
