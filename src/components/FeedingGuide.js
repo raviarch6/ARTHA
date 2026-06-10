@@ -7,7 +7,7 @@ const feedData = [
   { animal: "🐐 Goat", amount: "1–3 kg/day", bar: 20 },
   { animal: "🐑 Sheep", amount: "1–2 kg/day", bar: 15 },
   { animal: "🐖 Pig", amount: "2–5 kg/day", bar: 30 },
-  { animal: "🐔 Poultry/Chicks", amount: "0.2–0.5 kg/day", bar: 8 },
+  { animal: "🐔 Poultry/Chicks", amount: "0.1–0.2 kg/day", bar: 8 },
 ];
 
 export default function FeedingGuide() {

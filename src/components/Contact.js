@@ -56,7 +56,7 @@ export default function Contact() {
                 </div>
               </a>
               <a
-                href="mailto:artechhydroagri@gmail.com"
+                href="mailto:contact@arthakrushi.com"
                 className="contact__detail"
               >
                 <div className="contact__detail-icon">
@@ -65,7 +65,7 @@ export default function Contact() {
                 <div>
                   <div className="contact__detail-label">Email</div>
                   <div className="contact__detail-value">
-                    artechhydroagri@gmail.com
+                    contact@arthakrushi.com
                   </div>
                 </div>
               </a>

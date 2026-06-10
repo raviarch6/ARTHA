@@ -17,8 +17,8 @@ const stats = [
   {
     value: 110,
     suffix: "kg",
-    label: "Daily Max Output",
-    desc: "from a single 96-tray system",
+    label: "Feeds 10–12 cows daily",
+    desc: "Daily Output from 96-Tray System",
   },
   {
     value: 100,

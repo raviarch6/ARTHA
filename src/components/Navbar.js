@@ -31,7 +31,11 @@ export default function Navbar({ theme, toggleTheme }) {
       <div className="navbar__inner container">
         <a href="#" className="navbar__logo" aria-label="ARTHA Automation Home">
           <span className="navbar__logo-icon">
-            <img src="/Logo_HD.png" alt="ARTHA Automation" className="navbar__logo-img" />
+            <img
+           src={theme === "dark" ? "/Logo_Dark.png" : "/Logo_HD.png"}
+          alt="ARTHA Krushi Hydroponic Green Fodder Systems"
+          className="navbar__logo-img"
+  />
           </span>
           <span className="navbar__logo-text">
             <span className="navbar__logo-primary">ARTHA</span>

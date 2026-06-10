@@ -18,9 +18,9 @@ export default function About() {
               className="section-subtitle"
               style={{ marginBottom: "var(--space-8)" }}
             >
-              AR Tech Hydro Agri Automation (ARTHA) is a Udyam-registered
-              agri-tech company based in Chitradurga, Karnataka. We design,
-              supply, and install complete hydroponic fodder systems — backed by
+              AR Tech Hydro Agri Automation is a Udyam-registered
+              agri-tech company based in Madakaripura, Chitradurga, Karnataka. We design,
+              supply Hydrophonics Equipments, and install complete hydroponic fodder systems also we sell agri crop and vegetable seeds— backed by
               professional support for every farm size.
             </p>
             <div className="about__badges">
@@ -56,7 +56,7 @@ export default function About() {
                 <span>Hydroponic Fodder System</span>
               </div>
               <div className="about__img-tag">
-                <span>✅</span> ISO-Quality Components
+                <span>✅</span> Quality Components
               </div>
             </div>
           </div>

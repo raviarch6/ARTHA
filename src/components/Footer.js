@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="footer__brand">
             <div className="footer__logo">
               <span className="footer__logo-icon">
-                <img src="/Logo_HD.png" alt="ARTHA Automation" className="footer__logo-img" />
+                <img src="/Logo_Dark.png" alt="ARTHA Automation" className="footer__logo-img" />
               </span>
               <span className="footer__logo-text">
                 <span className="footer__logo-primary">ARTHA</span>
@@ -60,10 +60,10 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:artechhydroagri@gmail.com"
+                  href="mailto:contact@arthakrushi.com"
                   className="footer__contact-item"
                 >
-                  <Mail size={15} /> artechhydroagri@gmail.com
+                  <Mail size={15} /> contact@arthakrushi.com
                 </a>
               </li>
               <li className="footer__contact-item">
@@ -75,7 +75,7 @@ export default function Footer() {
 
         <div className="footer__bottom">
           <p>
-            © {new Date().getFullYear()} ARTHA Automation — AR Tech Hydro Agri Automation. All rights reserved.
+            © {new Date().getFullYear()} ARTHA Krushi — AR Tech Hydro Agri Automation. All rights reserved.
           </p>
           <p>
             Built with{" "}
