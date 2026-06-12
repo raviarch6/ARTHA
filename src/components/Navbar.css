@@ -47,20 +47,18 @@
   flex-direction: column;
   line-height: 1;
 }
-.navbar__logo-primary {
+.navbar__logo-sub {
   font-family: var(--font-display);
   font-size: 1.1rem;
   font-weight: 800;
-  color: var(--color-primary);
+  color: var(--color-accent);
   letter-spacing: 0.05em;
 }
-.navbar__logo-sub {
-  font-size: 0.65rem;
-  color: var(--color-text-muted);
+.navbar__logo-primary {
+  font-size: 1rem;
+  color: var(--color-primary);
   letter-spacing: 0.08em;
   text-align: center;
-  font-size: 1.1rem;
-  color: var(--color-accent);
   font-weight: 700;
 }
 
@@ -187,5 +185,8 @@
     gap: 6px;
     margin-left: auto;
   }
+  .navbar {
+  overflow-x: hidden;
+}
 }
 

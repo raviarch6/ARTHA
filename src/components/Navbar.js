@@ -38,8 +38,8 @@ export default function Navbar({ theme, toggleTheme }) {
   />
           </span>
           <span className="navbar__logo-text">
-            <span className="navbar__logo-primary">ARTHA</span>
-            <span className="navbar__logo-sub">Krushi</span>
+            <span className="navbar__logo-sub">ARTHA</span>
+            <span className="navbar__logo-primary">Krushi</span>
           </span>
         </a>
 
